@@ -22,7 +22,7 @@ title: Gaurav Deshmukh
 email: gauravsdeshmukh@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio website for Gaurav Deshmukh.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 domain: gauravsdeshmukh.github.io
 url: "https://gauravsdeshmukh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChemAndCode
