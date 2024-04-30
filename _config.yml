@@ -29,6 +29,7 @@ twitter_username: ChemAndCode
 github_username:  gauravsdeshmukh
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
