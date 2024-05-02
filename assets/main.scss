@@ -1,10 +1,15 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
 .spotlight{
     display: block;
     max-width: 50%;
     max-height: auto;
+}
+
+.no-border {
+    border:none !important;
 }
