@@ -164,7 +164,7 @@
 
 @include media-query($on-palm) {
   .footer-col {
-    float: none;
+    float: left;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
   }
