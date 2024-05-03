@@ -10,10 +10,10 @@
     max-height: auto;
 }
 
-.no-border {
-    border:none !important;
-}
-
-.flex-table{
-    display: block;
+.social-box{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px 5px;
+    align-items: center;
+    gap: 25px;
 }
