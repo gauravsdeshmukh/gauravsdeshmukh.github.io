@@ -218,7 +218,7 @@ pre {
     vertical-align: text-top;
     margin: 0 auto;
     @include media-query($on-palm){
-        width: 100%;
+        width: 20%;
     }
 }
 
