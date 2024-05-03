@@ -16,8 +16,9 @@
 </ul>
 {% endcomment %}
 <div class="social-box">
-    {%- if site.email -%}<a href="mailto:{{ site.email }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/email.svg#Layer_1_1_' | relative_url }}"></use></svg><span class="username">{{ site.email| escape }}</span></a>{%- endif -%}
-    {%- if site.twitter_username -%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username"> {{ site.twitter_username| escape }}</span></a>{%- endif -%}
-    {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a>{%- endif -%}
-    {%- if site.github_username -%}<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>{%- endif -%}
+    {%- if site.email -%}<a class="username" href="mailto:{{ site.email }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/email.svg#Layer_1_1_' | relative_url }}"></use></svg><span class="username">Email</span></a>{%- endif -%}
+    {%- if site.twitter_username -%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">Twitter</span></a>{%- endif -%}
+    {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">LinkedIn</span></a>{%- endif -%}
+    {%- if site.github_username -%}<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">GitHub</span></a>{%- endif -%}
+    {%- if site.medium_username -%}<a href="https://www.medium.com/@{{ site.medium_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/medium.svg#med' | relative_url }}"></use></svg> <span class="username">Medium Blog</span></a>{%- endif -%}
 </div>
