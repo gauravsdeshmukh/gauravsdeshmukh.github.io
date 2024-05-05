@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  padding: 65px 0 0;
 }
 
 
@@ -107,7 +108,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $brand-color;
   }
 
   &:hover {
@@ -121,7 +122,12 @@ a {
     .username {
       text-decoration: underline;
       text-align: center;
+      color: $grey-color-light;
     }
+  }
+
+  .site-title{
+    color: $background-color;
   }
 }
 
@@ -219,7 +225,7 @@ pre {
     margin: 0 auto;
     justify-content: center;
     @include media-query($on-palm){
-        width: 15%;
+        width: 20%;
         display: inline-flex;
         vertical-align: middle;
     }

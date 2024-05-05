@@ -7,7 +7,11 @@
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  height: 5%;
+  background-color: $header-color;
 }
 
 .site-title {
@@ -20,7 +24,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $background-color;
   }
 }
 
@@ -37,7 +41,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $background-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -107,12 +111,22 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  bottom: 0px; 
+  left: 0;
+  position: fixed;
+  width: 100%;
+  height: 15%;
+  padding-top: $spacing-unit / 3;
+  background-color: $header-color;
+
+  @include media-query($on-palm){
+    position: relative;
+  }
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 1.5;
 }
 
 .contact-list,
