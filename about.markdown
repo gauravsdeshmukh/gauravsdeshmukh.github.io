@@ -35,7 +35,7 @@ and applied mathematics to solve pressing fundamental problems in chemical engin
 allied fields.
 {: .justify}
 
-Additionally, it is my life's mission to communicate scientific concepts
+Additionally, I enjoy writing about scientific concepts to explain them to
 to curious minds in a manner that keeps their enthusiasm alive. To that end, I maintain a
 [personal blog](https://medium.com/@ChemAndCode) on Medium geared towards introducing
 practically relevant concepts from chemistry, physics, engineering, and mathematics.
@@ -43,7 +43,5 @@ I believe that you only understand something well when you can compute it, so pr
 preferred method of teaching. My articles have received more than 150,000 views till date, and
 many positive testimonials from both students and educators, for which I am eternally grateful.
 {: .justify}
-
-
 
 [jekyll-organization]: https://github.com/jekyll
