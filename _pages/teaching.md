@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /talks/
+title: Conference Talks
+description: List of talks given at national and international meetings.
 nav: true
-nav_order: 6
+nav_order: 3
+published: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+1. Bridging the gap between simple and complex surfaces: A combined DFT and transfer learning-driven workflow to determine stability of complex alloy catalysts, *27th North American Catalysis Society Meeting*, **2022** [[Abstract]](https://nam.confex.com/nam/2022/meetingapp.cgi/Paper/29008)

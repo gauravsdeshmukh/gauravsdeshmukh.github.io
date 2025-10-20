@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Science Communication
+permalink: /scicomm/
+description: Read my articles published in Towards Data Science
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 4
+display_categories: [Towards Data Science]
 horizontal: false
 ---
 
