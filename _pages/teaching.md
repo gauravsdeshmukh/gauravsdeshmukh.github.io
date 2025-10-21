@@ -28,6 +28,5 @@ published: true
 
 2. Bridging the gap between simple and complex surfaces: A combined DFT and transfer learning-driven workflow to determine stability of complex alloy catalysts, *27th North American Catalysis Society Meeting (NAM)*, **2022** [[Abstract]](https://nam.confex.com/nam/2022/meetingapp.cgi/Paper/29008)
 
-1. A First Principles Computational Framework for the Analysis of Stability of Alloy Catalysts: Model Study of Pt3Ni, *Award Talk at SUNCAT Summer Institute*, **2022**
-
+ 1. A First Principles Computational Framework for the Analysis of Stability of Alloy Catalysts: Model Study of Pt<sub>3</sub>Ni, *Award Talk at SUNCAT Summer Institute*, **2022**
 
