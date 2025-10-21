@@ -34,10 +34,10 @@ I received my bachelor's in chemical engineering from the Institute of Chemical 
 Purdue University in the United States to pursue a doctorate in chemical engineering under
 the guidance of Prof. Jeffrey Greeley. My doctoral thesis focused on the study and design
 of high-entropy alloy catalysts for thermal and electrocatalytic applications, such as fuel cells,
-using computational methods, including DFT and deep learning.
+using computational methods, including DFT and deep learning. [Read my publications here.](https://gauravsdeshmukh.github.io/publications)
 
 I'm interested in the applications of computational modelling and machine learning towards
 the solution of problems in the sustainable generation of energy and production of fuels and
 chemicals. I am also interested in technical writing and science communication, and to that end,
 I have written several articles in the Medium publication *Towards Data Science* on 
-mathematical modeling, chemical engineering, physics, and programming over the past six years.
+mathematical modeling, chemical engineering, physics, and programming over the past six years. [Read my articles here.](https://gauravsdeshmukh.github.io/scicomm)
