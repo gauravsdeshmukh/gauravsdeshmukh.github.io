@@ -340,7 +340,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-    - _posts/
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
