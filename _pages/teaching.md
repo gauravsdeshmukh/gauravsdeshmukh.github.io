@@ -16,11 +16,11 @@ published: true
 
 8. Investigating the Sulfur Poisoning Characteristics of High-Entropy Alloys Using a Multi-Property Graph Neural Network, *29th North American Catalysis Society Meeting (NAM)*, **2025** [[Abstract]](https://aiche.confex.com/aiche/nams25/meetingapp.cgi/Paper/704827)
 
-7. “Tuning the Bulk Composition of Pt-Based High-Entropy Alloys for Improved Oxygen Reduction Activity, *AIChE Annual Meeting*, **2023** [[Abstract]](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/665276)
+7. Tuning the Bulk Composition of Pt-Based High-Entropy Alloys for Improved Oxygen Reduction Activity, *AIChE Annual Meeting*, **2023** [[Abstract]](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/665276)
 
 6. Active Learning Workflow for Discovery of Stable Ternary Alloys from Binary Alloy Data, *AIChE Annual Meeting*, **2023** [[Abstract]](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/666176)
 
-5. Investigating the Effect of Near-Surface Structure and Composition on the Catalytic Activity of High-Entropy Alloy, *28th North American Catalysis Society Meeting (NAM)*, **2023** [[Abstract]](https://nam.confex.com/nam/2023/meetingapp.cgi/Paper/31392)
+5. Investigating the Effect of Near-Surface Structure and Composition on the Catalytic Activity of High-Entropy Alloys, *28th North American Catalysis Society Meeting (NAM)*, **2023** [[Abstract]](https://nam.confex.com/nam/2023/meetingapp.cgi/Paper/31392)
 
 4. Exploring structural and compositional complexity in alloy catalysts using active learning, *ACS Spring*, **2023** [[Abstract]](https://scimeetings.acs.org/exhibit/Exploring-structural-compositional-complexity-alloy/3802512)
 
